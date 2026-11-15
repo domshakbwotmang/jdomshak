@@ -1,29 +1,31 @@
-# Hi there! 👋 I'm @jdomshak
+# Hi there! 👋 I'm Domshak John (@jdomshak)
 
-I'm an aspiring **Junior Data Analyst** passionate about transforming raw data into actionable insights and compelling visual stories. Whether it's database management or analyzing sports metrics, I love finding the narrative hidden within the numbers.
+Aspiring **Junior Data Analyst** based in Nigeria. I turn messy data into clear stories and practical recommendations — whether that’s cleaning millions of bike-share trips or exploring football performance metrics.
+
+I recently completed the **Google Data Analytics Professional Certificate** and published my full capstone project.
 
 ### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud / BigQuery" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
+`SQL` · `Python` · `Pandas` · `Jupyter` · `BigQuery` · `Google Cloud` · `Microsoft Excel` · `HTML` · `Matplotlib`
 
-### 🔭 What I'm currently working on
-*   Advancing through the **Google Data Analytics Professional Certificate**, specializing in database management, spreadsheet automation, and data cleaning.
-*   Exploring the intersection of sports and data by analyzing European football statistics and visualizing player performance metrics.
+### 📂 Featured Project
 
-### 🌱 What I'm currently learning
-*   Advanced query writing and data extraction using **SQL** and **BigQuery**.
-*   **HTML** and other structural tools to help build out sleek data visualizations and custom matchday graphics.
+**[Cyclistic Bike-Share Analysis](https://github.com/jdomshak/cyclistic-bike-share-analysis)**  
+Google Data Analytics Capstone  
+Analyzed 6+ million Divvy trips (Oct 2025 – Sep 2026) to compare casual riders vs annual members. Delivered data cleaning, exploratory analysis, visualizations, and evidence-based recommendations for converting casual riders into members.  
+**Tools:** Python, Pandas, Matplotlib, SQLite, Jupyter  
+📄 [Full PDF Report](https://github.com/jdomshak/cyclistic-bike-share-analysis/blob/main/report/Cyclistic_Bike-Share_Analysis_Report.pdf)
 
-### 📂 Portfolio & Projects
-*   *(Coming Soon!)* 📊 **Data Analytics Capstone Project:** A comprehensive case study demonstrating the full data analysis process from cleaning to visualization.
-*   *(Coming Soon!)* ⚽ **Football Metrics Visualizer:** A collection of custom matchday graphics and player statistic comparisons.
+### 🔭 What I’m currently working on
+- Expanding my sports analytics work — European football statistics, player performance metrics, and custom matchday visuals
+- Preparing additional portfolio projects and a Kaggle presence
 
-### 📫 Let's Connect!
-*   **Email:** [domshakjohn6866@gmail.com](mailto:domshakjohn6866@gmail.com)
-*   **Pronouns:** He/Him
+### 🌱 Currently learning / deepening
+- Advanced SQL & BigQuery
+- Clean, presentation-ready data visualizations and HTML-based graphics
 
-⚡ **Fun fact:** When I'm not crunching numbers or configuring devices, I'm probably breaking down the latest football matchday stats or listening to some introspective hip-hop. Remember to always have fun!
+### 📫 Let’s Connect
+- Email: [domshakjohn6866@gmail.com](mailto:domshakjohn6866@gmail.com)
+- Pronouns: He/Him
+- Location: Nigeria
+
+⚡ **Fun fact:** When I’m not cleaning data or writing queries, you’ll probably find me breaking down the latest football matchday stats or listening to introspective hip-hop. Always keep the curiosity (and the fun) alive!
